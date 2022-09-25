@@ -5,4 +5,6 @@ env.COMPONENT = "catalogue"
 env.BUILD_LABEL = "WORKSTATION"
 
 //library
-nodejs()
+//nodejs()
+
+immutable_nodejs()
